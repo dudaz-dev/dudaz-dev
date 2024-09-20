@@ -11,12 +11,12 @@
 <br>
 
 <div>  
-  <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api?username=dudaz-dev&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Maria Eduarda's GitHub Stats" /> 
-  <img width="44%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudaz-dev&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="53%" height="200px" src="https://github-readme-stats.vercel.app/api?username=dudaz-dev&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Maria Eduarda's GitHub Stats" /> 
+  <img width="47%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudaz-dev&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div><br><br>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-<br>
+<br><br><br>
 
 <div align="center" >  
 <a href="https://www.linkedin.com/in/mariaeduardacastro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="40px"></a>

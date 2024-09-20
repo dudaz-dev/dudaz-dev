@@ -3,13 +3,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Maria+Eduarda;Tenho+25+anos;Desenvolvedora+Front-End;Apaixonada+por+Tecnologia,+Aprendizado+e+Inovação;Seja+Bem-vindo!)](https://git.io/typing-svg)
 <br><br>
  
-<ul>
-  <img align="right" width="25%;" src="">
-  <li>👀 Estou interessada em **desenvolvimento web**, **tecnologias front-end** e **soluções inovadoras**</li>
-  <li>🌱 Atualmente estou aprendendo **Angular**, **React.js** e aprimorando minhas habilidades em **Front-End**</li>
-  <li>💞️ Busco colaborar em projetos que envolvam **agilidade**, **tecnologia de ponta** e **desenvolvimento de soluções criativas**</li>
-  <li> 🎓 Sou estudante de **Análise e Desenvolvimento de Sistemas** e **Gestão da Tecnologia da Informação**</li>
-</ul>
+<div>
+  <img align="right" width="25%;" src=".\img\">
+  <p>👀 Estou interessada em <strong>desenvolvimento web</strong>, <strong>tecnologias front-end</strong> e <strong>soluções inovadoras</strong><br>
+  🌱 Atualmente estou aprendendo <strong>Angular</strong>, <strong>React.js</strong> e aprimorando minhas habilidades em <strong>Front-End</strong><br>
+  💞️ Busco colaborar em projetos que envolvam <strong>agilidade</strong>, <strong>tecnologia de ponta</strong> e <strong>desenvolvimento de soluções criativas</strong><br>
+  🎓 Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> e <strong>Gestão da Tecnologia da Informação</strong></p>
+</div>
  
  
  

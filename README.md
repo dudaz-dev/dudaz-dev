@@ -4,7 +4,7 @@
 <br><br>
  
 <div>
-  <img align="right" width="25%;" src=".\img\">
+  <img align="right" width="25%;" src="./img/dudaz-dev.png">
   <p>👀 Estou interessada em <strong>desenvolvimento web</strong>, <strong>tecnologias front-end</strong> e <strong>soluções inovadoras</strong><br>
   🌱 Atualmente estou aprendendo <strong>Angular</strong>, <strong>React.js</strong> e aprimorando minhas habilidades em <strong>Front-End</strong><br>
   💞️ Busco colaborar em projetos que envolvam <strong>agilidade</strong>, <strong>tecnologia de ponta</strong> e <strong>desenvolvimento de soluções criativas</strong><br>

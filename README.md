@@ -29,7 +29,7 @@
 <br><br><br>
 
 <div align="center" >  
-<a href="https://www.linkedin.com/in/mariaeduardacastro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="40px"></a>
-<a href="mailto:mariaeduardacastro.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="40px"></a>  
+<a href="https://www.linkedin.com/in/maria-eduardacastro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="40px"></a>
+<a href="mailto:dudaz.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="40px"></a>  
 </div>
 

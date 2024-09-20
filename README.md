@@ -1,19 +1,21 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Maria%20Eduarda%20Castro&fontSize=50&fontColor=fff&animation=twinkling"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Maria%20Eduarda%20&fontSize=50&fontColor=fff&animation=twinkling"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Maria+Eduarda;Tenho+25+anos;Desenvolvedora+Front-End;Apaixonada+por+Tecnologia,+Aprendizado+e+Inovação;Seja+Bem-vindo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Maria+Eduarda+Castro+Carvalho;Tenho+25+anos;Desenvolvedora+Front-End;Apaixonada+por+Tecnologia,+Aprendizado+e+Inovação;Seja+Bem-vindo!)](https://git.io/typing-svg)
 <br><br>
  
 <div>
-  <img align="right" width="25%;" src="./img/dudaz-dev.png">
+  <img align="left" width="20%;" src="./img/dudaz-dev.png">
+ <br>
+<br>
   <p>👀 Estou interessada em <strong>desenvolvimento web</strong>, <strong>tecnologias front-end</strong> e <strong>soluções inovadoras</strong><br>
   🌱 Atualmente estou aprendendo <strong>Angular</strong>, <strong>React.js</strong> e aprimorando minhas habilidades em <strong>Front-End</strong><br>
-  💞️ Busco colaborar em projetos que envolvam <strong>agilidade</strong>, <strong>tecnologia de ponta</strong> e <strong>desenvolvimento de soluções criativas</strong><br>
+  💞️ Busco colaborar em projetos que envolvam <strong>agilidade</strong>, <strong>tecnologia</strong> e <strong>desenvolvimento de soluções criativas</strong><br>
   🎓 Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> e <strong>Gestão da Tecnologia da Informação</strong></p>
 </div>
  
  
  
- 
+ <br>
 <br>
 <br>
 <br>
